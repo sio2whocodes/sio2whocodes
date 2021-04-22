@@ -25,12 +25,16 @@
   <img src="https://img.shields.io/badge/photoshop-003E54?style=flat-square&logo=adobephotoshop&logoColor=white">
 </p>
 
+<h2 align=center> ☘️ My Git Stats ☘️ </h2>
 <p align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=sio2whocodes&count_private=true&theme=slateorange&hide=issues" /></br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sio2whocodes&layout=compact&theme=slateorange" /></br>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=fltcy2039"/>
 </p>
-                                                                                           
+
+<h2 align=center> 🎉 My solved.ac Rank 🎉 </h2>
+<p align=center>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=fltcy2039" />
+</p>
    
 <!--
 **sio2whocodes/sio2whocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
