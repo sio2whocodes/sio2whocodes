@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
 </p>
 
 <p align=center>
@@ -26,18 +26,11 @@
 </p>
 
 <p align=center>
-  <a href="https://github-readme-stats.vercel.app/api?username=sio2whocodes&count_private=true&theme=slateorange&hide=issues"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sio2whocodes&count_private=true&theme=slateorange&hide=issues" /></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sio2whocodes&layout=compact&theme=slateorange" /></br>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=fltcy2039"/>
 </p>
-
-
-<p align=center>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sio2whocodes&layout=compact&theme=slateorange"></a>
-</p>
-
-<p align=center>
-  <a href="http://mazassumnida.wtf/api/generate_badge?boj=fltcy2039"></a>
-</p>
-                                                                                                    
+                                                                                           
    
 <!--
 **sio2whocodes/sio2whocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
