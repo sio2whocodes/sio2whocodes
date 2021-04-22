@@ -27,8 +27,8 @@
 
 <h2 align=center> ☘️ My Git Stats ☘️ </h2>
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=sio2whocodes&count_private=true&theme=slateorange&hide=issues" /></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sio2whocodes&layout=compact&theme=slateorange" /></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sio2whocodes&count_private=true&theme=flag-india&hide=issues" /></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sio2whocodes&layout=compact&theme=flag-india" /></br>
 </p>
 
 <h2 align=center> 🎉 My solved.ac Rank 🎉 </h2>
