@@ -21,8 +21,8 @@
 
 <p align=center>
   and..
-  <img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/photoshop-003E54?style=flat-square&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/photoshop-003E54?style=flat-square&logo=adobe-photoshop&logoColor=white">
 </p>
 
 <h2 align=center> ☘️ My Git Stats ☘️ </h2>
