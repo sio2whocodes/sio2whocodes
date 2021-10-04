@@ -1,6 +1,5 @@
 <h2 align=center>🌊 SuJeong's GitHub 🌊</h2>
 <p align="center">
-  성신 컴공 막학기 | 예비 개발자 | iOS 개발자 | 백엔드 개발자 | 근데 디자인을 곁들인 | 댄서
 </p>
 <!--
 <p align="center">
