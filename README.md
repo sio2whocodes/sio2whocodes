@@ -11,12 +11,11 @@
 
 <h2 align=center> 💻 Tech Stack 💻 </h2>
 <p align=center>
-  <img src="https://img.shields.io/badge/swift-9558B2?style=flat-square&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/c++-7E4798?style=flat-square&logo=C%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/java-782A90?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/swift-9558B2?style=flat-square&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/Python-662D91?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/MySql-4A154B?style=flat-square&logo=MySql&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-380953?style=flat-square&logo=node.js&logoColor=white">
 </p>
 
 <p align=center>
