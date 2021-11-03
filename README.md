@@ -1,6 +1,6 @@
 <h2 align=center>🌊 SuJeong's GitHub 🌊</h2>
 <p align="center">
-  개발자 맞아요
+  iOS 개발자
 </p>
 <!--
 <p align="center">
