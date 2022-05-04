@@ -1,4 +1,7 @@
 <h2 align=center>🌊 SuJeong's GitHub 🌊</h2>
+
+Application Developer
+
 <!--
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsio2whocodes&count_bg=%237797B2&title_bg=%236FC3D9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></a>
