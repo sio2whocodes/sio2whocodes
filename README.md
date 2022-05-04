@@ -1,6 +1,6 @@
 <h2 align=center>🌊 SuJeong's GitHub 🌊</h2>
 
-Application Developer
+<p align="center">Application Developer</p>
 
 <!--
 <p align="center">
