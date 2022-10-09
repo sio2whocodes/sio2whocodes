@@ -1,6 +1,6 @@
 <h2 align=center>🌊 SuJeong's GitHub 🌊</h2>
 
-<p align="center">Application Developer</p>
+<p align="center">master's program in School of Computing at KAIST 👩🏻‍💻</p>
 
 <!--
 <p align="center">
