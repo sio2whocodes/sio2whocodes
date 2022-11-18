@@ -26,5 +26,5 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 
 <br/>
 <p align=center>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=fltcy2039" align="right" />
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=fltcy2039" align="left" />
 </p>
