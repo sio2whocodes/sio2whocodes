@@ -22,7 +22,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 
 ### 🌗 Projects
 - 🔮 **수정광산** : 교내 커뮤니티 모바일 어플리케이션 (Java Springboot Backend)<br/>
-- 📘 **PHOKI** : 사진 기록용 캘린더 iOS 어플리케이션 (iOS)<br/>
+- 🦋 **PHOKI** : 사진 기록용 캘린더 iOS 어플리케이션 (iOS)<br/>
 
 <br/>
 <p align=center>
