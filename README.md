@@ -1,51 +1,30 @@
 <h2 align=center>🌊 SuJeong's GitHub 🌊</h2>
 
-<p align="center">master's program in School of Computing at KAIST 👩🏻‍💻</p>
+<div>
+  <a href="https://sio2whocode.tistory.com/">
+<img
+src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://sio2whocode.tistory.com/"
+style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
+</a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsio2whocodes&count_bg=%234A75FF&title_bg=%23FDFDFC&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8B&edge_flat=true" align="right" />
+  <a href="https://solved.ac/fltcy2039"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=fltcy2039" align="right" /></a>
+</div>
 
-<!--
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsio2whocodes&count_bg=%237797B2&title_bg=%236FC3D9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"></a>
-</p>
---!>
+<br/>
 
+### 🌕 Education
+- **성신여자대학교 지식서비스공과대학 컴퓨터공학(주전공), 융합보안공학(부전공) `졸업`** (2018.02 ~ 2022.02)<br/>
+- **카이스트 전산학부 석사과정 `진행중`** (2022.08 ~ )<br/>
 
-<h2 align=center> 💻 Tech Stack 💻 </h2>
+### 🌖 Experience
+- **한국 IBM Associate Application Developer** (2022.05 ~ 2022.07)<br/>
+- **수정광산 0기 Backend Developer** (2021.05 ~ )<br/>
+
+### 🌗 Projects
+- 🔮 **수정광산** : 교내 커뮤니티 모바일 어플리케이션 (Java Springboot Backend)<br/>
+- 📘 **PHOKI** : 사진 기록용 캘린더 iOS 어플리케이션 (iOS)<br/>
+
+<br/>
 <p align=center>
-  <img src="https://img.shields.io/badge/c++-7E4798?style=flat-square&logo=C%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/java-782A90?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/swift-9558B2?style=flat-square&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-662D91?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/MySql-4A154B?style=flat-square&logo=MySql&logoColor=white">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=fltcy2039" align="right" />
 </p>
-
-<p align=center>
-  and..
-  <img src="https://img.shields.io/badge/illustrator-B7178C?style=flat-square&logo=adobe-illustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/photoshop-DD0B78?style=flat-square&logo=adobe-photoshop&logoColor=white">
-</p>
-
-<h2 align=center> ☘️ My Git Stats ☘️ </h2>
-<p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=sio2whocodes&count_private=true&theme=calm" /></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sio2whocodes&layout=compact&theme=calm" /></br>
-</p>
-
-<h2 align=center> 🎉 My solved.ac Rank 🎉 </h2>
-<p align=center>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=fltcy2039" />
-</p>
-   
-<!--
-**sio2whocodes/sio2whocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
