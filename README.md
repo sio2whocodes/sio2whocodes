@@ -13,12 +13,12 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 <br/>
 
 ### 🌕 Education
-- **성신여자대학교 지식서비스공과대학 컴퓨터공학(주전공), 융합보안공학(부전공) `졸업`** (2018.02 ~ 2022.02)<br/>
-- **카이스트 전산학부 석사과정 `진행중`** (2022.08 ~ )<br/>
+- **성신여자대학교 지식서비스공과대학 컴퓨터공학(주전공), 융합보안공학(부전공) 학사 `졸업`** (2018.02 ~ 2022.02)<br/>
+- **카이스트 전산학부 석사 `졸업`** (2022.09 ~ 2024.08)<br/>
 
 ### 🌖 Experience
 - **한국 IBM Associate Application Developer** (2022.05 ~ 2022.07)<br/>
-- **수정광산 0기 Backend Developer** (2021.05 ~ )<br/>
+- **수정광산 0기 Backend Developer** (2021.05 ~ 2022.12)<br/>
 
 ### 🌗 Projects
 - 🔮 **수정광산** : 교내 커뮤니티 모바일 어플리케이션 (Java Springboot Backend)<br/>
