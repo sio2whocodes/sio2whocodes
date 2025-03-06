@@ -14,7 +14,10 @@ style="height : auto; margin-left : 10px; margin-right : 10px;" align="right"/>
 
 ### 🌕 Education
 - **성신여자대학교 지식서비스공과대학 컴퓨터공학(주전공), 융합보안공학(부전공) 학사 `졸업`** (2018.02 ~ 2022.02)<br/>
-- **카이스트 전산학부 석사 `졸업`** (2022.09 ~ 2024.08)<br/>
+- **카이스트 전산학부 석사 `졸업` (웹 공학 및 서비스 컴퓨팅 연구실 - 고인영 교수님)** (2022.09 ~ 2024.08)<br/>
+
+### 🌗 Publication
+- 📚 **CHI 25' LBW** : WYSIMWYG: Simulation-based Decision Support for Data Distribution of Hyperlocal Services in EdgeCloud Environments <br/>
 
 ### 🌖 Experience
 - **한국 IBM Associate Application Developer** (2022.05 ~ 2022.07)<br/>
